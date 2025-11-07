@@ -1,12 +1,12 @@
 title: "Welcome to my blog"
 author: "Trieu Truong"
-description: "Some short description can go here" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "Mathematical and Engineering Blog" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "cattrieutruongminh.com"
-github_username: "githubuser"
-linkedin_username: "https://www.linkedin.com/in/mc-trieu-truong/"
+github_username: "ttrieu2025"
+linkedin_username: "linkedin.com/in/mc-trieu-truong"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
