@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hi, my name is Trieu, but you can call me Trevor. I am currently an undergraduate student at the University of British Columbia. I created this space to share knowledge and my personal journey, I hope you will enjoy the content and find something helpful.
